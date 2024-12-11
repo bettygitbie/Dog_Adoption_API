@@ -1,4 +1,6 @@
-The folder structure designed by our software architects ensures adherence to best practices:
+This is a dog adoption API built with Express and Node.js. 
+
+The folder structure designed to ensure adherence to best practices:
 
 - `controllers`: Contains the logic for handling incoming requests and returning responses to the client.
 - `models`: Defines the data models and interacts directly with the database.
@@ -11,4 +13,4 @@ The folder structure designed by our software architects ensures adherence to be
 
 This structure provides a solid foundation for building a well-organized, scalable backend service. By separating concerns into dedicated directories and files, your project remains clean, navigable, and easier to debug and extend.
 
-View the rubric for this assessment [here](https://storage.googleapis.com/hatchways.appspot.com/employers/springboard/student_rubrics/Dog%20Adoption%20Platform%20Rubric.pdf)
+
